@@ -1,5 +1,5 @@
 
-## Howdy, Welcome to My Git
+## Welcome to Git
 
 - Greg here
 - This is coming from 'dev-bob'
